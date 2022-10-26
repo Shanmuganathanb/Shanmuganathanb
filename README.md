@@ -2,8 +2,8 @@
 ## I am 
 # Shanmuganathan 
 
-- 🔭 I’m currently working on FrontEnd Development using HTML, CSS and Vanilla JavaScript
-- 🌱 I’m currently learning BackEnd Development with Node, Express and MySql
+- 🔭 I’m currently working on FrontEnd Development using HTML, CSS and Vanilla JavaScript, React, Bootstrap, Tailwind Css
+- 🌱 I’m currently working BackEnd Development with Node, Express, MySql, Python, Postgresql, Mongodb
 - 👯 I’m looking to collaborate and work on opensource projects
 - 🤔 I’m looking for help with getting opensource projects and ideas 
 - 💬 Ask me about FrontEnd Development and Python Programming
@@ -14,7 +14,7 @@
 const Shanmuganathanb = {
   pronouns: "he" | "him",
   code: [Javascript, Python, HTML, CSS, C],
-  tools: [Node, Express, Boostrap, Git, VS Code, Ubuntu],
- challenge: "I am currenly focused on node and express"
+  tools: [Node, React, Express, Boostrap, Django, Flask, Fast Api, Git, VS Code, Ubuntu],
+ challenge: "I am currenly focused on Problem Solving"
 }
 ```
